@@ -1,0 +1,2 @@
+FeatureModule 
+We are going to create multiple feature modules for every independent feature of our application. Feature modules should only import services from CoreModule. If feature module A needs to import service from feature module B consider moving that service into core.

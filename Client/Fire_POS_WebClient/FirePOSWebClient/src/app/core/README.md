@@ -1,0 +1,2 @@
+CoreModule 
+All services which have to have one and only one instance per application (singleton services) should be implemented here. Typical example can be authentication service or user service. Let’s look at an example of CoreModuleimplementation.
